@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L01_DateTime", "CzechitasCsharp2\L01_DateTime.csproj", "{FAD16787-5E93-4320-BD7E-C5658081506C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L02_Exceptions", "L02_Exceptions\L02_Exceptions.csproj", "{0BF97060-50A9-4635-8F12-87BD8E7DCB81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAD16787-5E93-4320-BD7E-C5658081506C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAD16787-5E93-4320-BD7E-C5658081506C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAD16787-5E93-4320-BD7E-C5658081506C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAD16787-5E93-4320-BD7E-C5658081506C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BF97060-50A9-4635-8F12-87BD8E7DCB81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BF97060-50A9-4635-8F12-87BD8E7DCB81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BF97060-50A9-4635-8F12-87BD8E7DCB81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BF97060-50A9-4635-8F12-87BD8E7DCB81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0155FD1-D1F2-4DFD-88A0-6C8CD2879E84}
+	EndGlobalSection
+EndGlobal
