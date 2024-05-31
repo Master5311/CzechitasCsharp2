@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L04_Collections", "L04_Coll
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L04_Dictionary", "L04_Dictionary\L04_Dictionary.csproj", "{57E62C50-B767-4DB6-81F3-B53D4677D2F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L06_OOP", "L06_OOP\L06_OOP.csproj", "{01B4BA52-9273-4FEB-85C9-26A6506BAB20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L06_OOP", "L06_OOP\L06_OOP.csproj", "{01B4BA52-9273-4FEB-85C9-26A6506BAB20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L08_Abstractions_Interfaces", "L08_Abstractions_Interfaces\L08_Abstractions_Interfaces.csproj", "{975D3CD0-F840-4DB0-9A15-2013A2C55C77}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L07_Polymorphism", "L07_Polymorphism\L07_Polymorphism.csproj", "{9C19349B-560A-49C7-9795-E8AE5456F1E2}"
 EndProject
@@ -51,6 +53,10 @@ Global
 		{9C19349B-560A-49C7-9795-E8AE5456F1E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C19349B-560A-49C7-9795-E8AE5456F1E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C19349B-560A-49C7-9795-E8AE5456F1E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{975D3CD0-F840-4DB0-9A15-2013A2C55C77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{975D3CD0-F840-4DB0-9A15-2013A2C55C77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{975D3CD0-F840-4DB0-9A15-2013A2C55C77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{975D3CD0-F840-4DB0-9A15-2013A2C55C77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
